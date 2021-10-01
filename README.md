@@ -2,7 +2,9 @@
 ✨ Welcome to me Page by: Fabricio Begalli ✨
 </br>
 </br>
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2c018147846c593d922e9c5ca0c883c93d72e336386d37fca3041f49041b38ce/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d5261796d6f3131312e5261796d6f31313126636f6c6f723d303064663030"><img src="https://camo.githubusercontent.com/2c018147846c593d922e9c5ca0c883c93d72e336386d37fca3041f49041b38ce/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d5261796d6f3131312e5261796d6f31313126636f6c6f723d303064663030" alt="visitors" data-canonical-src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fabriciobegalli.fabriciobegalli&amp;color=00df00" style="max-width: 100%;"></a></p>
+<p>
+  <img height="20em" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fabriciobegalli.fabriciobegalli&amp;color=00df00"/>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
