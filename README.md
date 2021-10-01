@@ -1,10 +1,7 @@
 <div align="center">
-✨ Welcome to me Page by: Fabricio Begalli ✨
+✨ Fabricio Begalli ✨
 </br>
-</br>
-<p>
-  <img height="20em" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fabriciobegalli.fabriciobegalli&amp;color=00df00"/>
-</p>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
@@ -23,6 +20,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobegalli&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+</br>
+<p>
+  <img height="20em" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fabriciobegalli.fabriciobegalli&amp;color=00df00"/>
+</p>
   
 </div>
 
